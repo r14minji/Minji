@@ -21,3 +21,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </div>
+
+<br><br>
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=r14minji&show_icons=true&theme=gruvbox)](https://github.com/r14minji)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r14minji&layout=compact)](https://github.com/r14minji/github-readme-stats)
