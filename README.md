@@ -24,5 +24,4 @@
 
 <br><br>
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=r14minji&show_icons=true&theme=gruvbox)](https://github.com/r14minji)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r14minji&layout=compact)](https://github.com/r14minji/github-readme-stats)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=r14minji&show_icons=true&theme=gruvbox)](https://github.com/r14minji) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r14minji&layout=compact)](https://github.com/r14minji/github-readme-stats)
