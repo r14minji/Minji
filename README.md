@@ -15,15 +15,20 @@
 
 <br><br>
 <div align="center">
-⚙ Cowork Tools ⚙ <br><br>
-
+🔸 Cowork Tools 🔸 <br><br>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </div>
 
+
 <br><br>
+<div align="center">
+⚙ Blog ⚙ <br><br>
+<div>https://pushground.tistory.com/</div>
+
+<br><br><br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r14minji&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r14minji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
