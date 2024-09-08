@@ -15,7 +15,7 @@
 
 <br><br>
 <div align="center">
-🔸 Cowork Tools 🔸 <br><br>
+⚙ Cowork Tools ⚙ <br><br>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
@@ -25,7 +25,7 @@
 
 <br><br>
 <div align="center">
-⚙ Blog ⚙ <br><br>
+🔸 Blog🔸 <br><br>
 <div>https://pushground.tistory.com/</div>
 
 <br><br><br><br>
